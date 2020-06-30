@@ -1,4 +1,4 @@
-# WeatherDashboard
+# WeatherDashboard - Something should go wrong!
 
 ## User Story
 
