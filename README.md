@@ -1,4 +1,4 @@
-# WeatherDashboard - Introduce Conflict
+# WeatherDashboard - Many conflicts are bound to happen
 
 ## User Story
 
