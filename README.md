@@ -1,4 +1,4 @@
-# WeatherDashboard - Something should go wrong!
+# WeatherDashboard - Many conflicts are bound to happen
 
 ## User Story
 
